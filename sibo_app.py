@@ -38,4 +38,3 @@ if submitted:
         st.warning("Riesgo moderado. Considere seguimiento clínico o pruebas.")
     else:
         st.success("Bajo riesgo clínico de SIBO según los criterios ingresados.")
-✅ Paso 3: Baja y haz clic en “Commit changes” (Confirmar cambios)
